@@ -55,3 +55,10 @@ source indicates that we are generating from an existing directory instead of a 
 remote origin is the secret sauce. It does the "hanshake" for us to ensure that are linking our local directory's changes to the repo on Github. This maps the origin to the URL of the repo created by github when it receives this request. 
 
 push is to send our changes to the newly created repo. 
+
+## Changing Repo Name
+
+cd /old-repo-name
+gh repo rename new-repo-name
+
+git remote set-url origin https://github.com/user/new-repo-name
