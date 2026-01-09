@@ -24,7 +24,7 @@ Using Linux has become an annoying uber ride home from the airport. Maybe that i
 
 In my opinion Cachy is philsophically aligned with Arch as it helps to combine the great aspects of arch into a pre-congigured pacakge with GUI programs, desktop enviornemnts, window managers, compiler optimiazations, and thir own twists on the endless extensibility and customizability of Arch. and easy
 
-
+We will be using CachyOS because its easy to learn and it has a lot of the leg work removed. 
 
 
 # Commmand Line Interface
