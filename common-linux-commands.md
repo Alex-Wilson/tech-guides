@@ -32,6 +32,10 @@ We will be interacting with the
 
 The command line can be found by pressing the windows (called the modification key in the linux world) and 
 
+## Listing the contents of a directory
+
+ls 
+
 
 ## Creating a directory with mkdir
 Creates a new directory
