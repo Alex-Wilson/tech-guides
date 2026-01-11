@@ -27,7 +27,7 @@ In my opinion Cachy is philsophically aligned with Arch as it helps to combine t
 We will be using CachyOS because its easy to learn and it has a lot of the leg work removed. 
 
 
-# Commmand Line Interface
+# Commmand Line Interface, Terminals, and Shells, Oh My! 
 We will be interacting with the 
 
 The command line can be found by pressing the windows (called the modification key in the linux world) and 
