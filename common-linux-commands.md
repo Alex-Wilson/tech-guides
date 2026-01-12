@@ -32,7 +32,7 @@ We will be interacting with the
 
 The command line can be found by pressing the windows (called the modification key in the linux world) and 
 
-## Listing the contents of a directory
+## List the contents of a directory with ls
 
 ls 
 
@@ -55,3 +55,15 @@ mv old-folder-name new-folder-name
 cd new-folder-name
 
 ## Removing a File or Directory with rm
+
+
+## Editing a file with nvim or codium
+
+# Hyperland Commands
+
+## Full sizing a window
+## Minimizing a window
+## Closing a window
+## Switching windows
+## Tiling a window
+## Congif files
