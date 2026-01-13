@@ -57,7 +57,6 @@ cd new-folder-name
 ## Removing a File or Directory with rm
 
 
-## Editing a file with nvim or codium
 
 # Hyperland Commands
 
@@ -66,4 +65,9 @@ cd new-folder-name
 ## Closing a window
 ## Switching windows
 ## Tiling a window
-## Congif files
+## Congifuring dot (.) files
+
+
+## Nvim vs Codium
+
+## Neofetch
