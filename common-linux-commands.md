@@ -32,6 +32,10 @@ We will be interacting with the
 
 The command line can be found by pressing the windows (called the modification key in the linux world) and 
 
+## Finding the currently logged in user with whoami
+
+## Finding working directory with pwd
+
 ## List the contents of a directory with ls
 
 ls 
@@ -71,3 +75,5 @@ cd new-folder-name
 ## Nvim vs Codium
 
 ## Neofetch
+
+## System Monitoring with BTOP
