@@ -26,11 +26,13 @@ We will be using CachyOS for this guide.
 
 # Commmand Line Interface, Terminals, and Shells, Oh My! 
 
-Command Line Interface:
+Graphical User Interface (GUI): A GUI is the most common way to interface with computers, electronic devices, and computer programs. Think of sending a text on your phone, editing a spreasheet with Google Sheets or Microsoft Excel, changing the settings in the menu of a video game, paying a bill online, or pressing "resume printing" on a printer that ran out of paper. In all these scenarios the user is interacting with the the GUI to make changes to the computer or program, such as clicking buttons, moving a slider, and/or touching a screen. GUIs are extremely useful in certain situations and often times much easier to learn.
+
+Command Line Interface (CLI): This is simply a way to interact with a program. Instead of manipulating graphical elements, commands are sent directly to the computer. Instead of a muting the audio with a button the user might type "volume -100%". If the command is not typed correctly it might not work or it might have unintended effects.  
 
 Terminal:
 
-Shell 
+Shell:
 
 
 
