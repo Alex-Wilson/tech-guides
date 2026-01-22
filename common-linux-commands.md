@@ -37,12 +37,12 @@ Shell: The shell is the unerlying program in the terminal or command line interf
 Terminal User Interface (TUI): This is a modern paradigm which combines the direct action, programability, and features of a command line interface with the information, customization, and ease of use of a GUI. For example it is hard to edit large text files directly in the terminal from the command line but we can use tools that utilize a TUI, like Neovim to make it easier without leaving the terminal. This is like an "app" that runs in the terminal. Once we launch Neovim we are greeted with a complete change in what each button and command does with different capabilities than the normal terminal or even shell.  
 
 
-
-
-
-The command line can be found by pressing the windows (called the modification key in the linux world) and 
+The command line can be found by pressing the windows (called the modification key in the linux world) and the "enter" key. We cam denote keyboard combinations with the following notation "mod" + "enter" => terminal
 
 ## Finding the currently logged in user with whoami
+
+Each program and process has a user associated with it. There are three main types of users. There is the root user (also known as the host) which  also known as the host in virtualized enviornments, and then there is the 
+
 
 ## Finding working directory with pwd
 
