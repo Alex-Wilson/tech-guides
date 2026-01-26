@@ -39,11 +39,11 @@ Terminal User Interface (TUI): This is a modern paradigm which combines the dire
 
 The command line can be found by pressing the windows (called the modification key in the linux world) and the "enter" key. We cam denote keyboard combinations with the following notation "mod" + "enter" => terminal
 
-## Finding the currently logged in user with whoami
+## Processses, Threads, Users, and Process ID Numbers in Linux
 
 Each program and process has a user associated with it. There are three main types of users. There is the root user (also known as the host) which  also known as the host in virtualized enviornments, and then there is the 
 
-
+## Finding the currently logged in user with whoami
 ## Finding working directory with pwd
 
 ## List the contents of a directory with ls
