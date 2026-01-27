@@ -41,6 +41,8 @@ The command line can be found by pressing the windows (called the modification k
 
 ## Processses, Threads, Users, and Process ID Numbers in Linux
 
+## Files and Directories in Linux
+
 Each program and process has a user associated with it. There are three main types of users. There is the root user (also known as the host) which  also known as the host in virtualized enviornments, and then there is the 
 
 ## Finding the currently logged in user with whoami
