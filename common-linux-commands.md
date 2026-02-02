@@ -73,6 +73,11 @@ cd new-folder-name
 ## Removing a File or Directory with rm
 
 
+## Navigation (pwd, cd, ls)
+## File Operations (cp, mv, rm, mkdir, touch)
+## Reading Files (cat, less, head, tail)
+## System Information (neofetch, btop, df, free)
+## Common Applications and Alternatives (nvim, codium, zen)
 
 # Hyperland Commands
 
@@ -82,10 +87,3 @@ cd new-folder-name
 ## Switching windows
 ## Tiling a window
 ## Congifuring dot (.) files
-
-
-## Nvim vs Codium
-
-## Neofetch
-
-## System Monitoring with BTOP
