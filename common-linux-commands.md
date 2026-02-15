@@ -34,6 +34,9 @@ We will be using CachyOS for this guide.
 
 **Command Line Interface (CLI):** The predecessor and alternative to the GUI. In this interface instead of manipulating virtual controls, "magic phrases" are typed with the keyboard and "sent" to the computer. Consider the use case for muting the audio on a computer. In a GUI enviornment (like windows) you click the speaker icon with the mouse, then move the "volume" slider to the bottom, or alternatively press the "mute" or even "mute all" button. In a command line enviornment (like alacritty), you would use a literal command like "wpctl set-mute @DEFAULT_AUDIO_SINK@ 1". The main benefit of using the CLI is that we can use it programatically. 
 
+
+
+
 Imagine we needed to mute 500 different Windows devices on a given network. If we were to use the GUI we would likely need to walk to each computer and go through the "mute all" process. This would take even a team of people a lot of time. If we were to leverage the programaiblity of the command line, we could solve this with a few lines of code. 
 
  the magical windows CLI program, that reads like "For device in devices: device.mute()"   ("count how much free storage you have") which increases the amount of things we can do overall with a program. Our language is the same on the command line, everything is defined clearly.  
