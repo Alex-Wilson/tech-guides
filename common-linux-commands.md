@@ -32,7 +32,12 @@ We will be using CachyOS for this guide.
 
 **Graphical User Interface (GUI):** A GUI is the most common way to interface with computers, devices, and programs. A GUI leverages virtual controls (such as clicking virtual buttons, moving virtual sliders, "dragging and dropping" virtual elements, and/or touching a screen) through graphical elements rendered by the computer, program, or device itself.  Examples include pressing the buttons to construct a text on your phone, using your mouse to click a color in a spreasheet, changing the settings in the menu of a video game, or pressing "resume printing" on a printer's screen after replacing the paper. GUIs are very easy to learn because they give strong visual guidance and feedback to the user, even children can understand how to use a tablet very efficiently. Think of this as pointing to the things that you want on a list and the computer knows how to do all the things on the list, you cannot ask for things not on the list.
 
-**Command Line Interface (CLI):** The predecessor and alternative to the GUI. In this interface instead of manipulating virtual controls, "magic phrases" are typed with the keyboard and "sent" to the computer. Consider the use case for muting the audio on a computer. In a GUI enviornment (like windows) you click the speaker icon with the mouse, then move the "volume" slider to the bottom, or alternatively press the "mute" or even "mute all" button. In a command line enviornment (like alacritty), you would use a literal command like "wpctl set-mute @DEFAULT_AUDIO_SINK@ 1". The main benefit of using the CLI is that we can use it programatically. 
+**Command Line Interface (CLI):** The predecessor and alternative to the GUI. In this interface instead of manipulating virtual controls, "magic phrases" are typed with the keyboard and "sent" to the computer. Consider the use case for muting the audio on a computer. In a GUI enviornment (like windows) you click the speaker icon with the mouse, then move the "volume" slider to the bottom, or alternatively press the "mute" or even "mute all" button. 
+
+In a command line enviornment, you would open the terminal and then type special phrases known as commands with the keyboard and them to the shell. 
+
+
+ that use a literal command like "wpctl set-mute @DEFAULT_AUDIO_SINK@ 1". The main benefit of using the CLI is that we can use it programatically. 
 
 
 
