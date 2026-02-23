@@ -1,5 +1,5 @@
 # Hello, Tux!
-This guide will be focused on use in Arch based linux enviornments, specifically CachyOS. This guide assumes succesful installation of CachyOS. 
+This guide will be focused on operating a computer utilizing an Arch based linux enviornment, specifically CachyOS. This guide assumes succesful installation of CachyOS. 
 
 I’d just like to interject for a moment. What you’re refering to as Linux, is in fact, GNU/Linux, or as I’ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.
 
