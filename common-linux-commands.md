@@ -37,9 +37,9 @@ We will be using CachyOS for this guide.
 In a command line enviornment, you would open the terminal and then type special phrases known as commands with the keyboard and them to the shell. 
 
 
- that use a literal command like "wpctl set-mute @DEFAULT_AUDIO_SINK@ 1". The main benefit of using the CLI is that we can use it programatically. 
+0 that use a literal command like "wpctl set-mute @DEFAULT_AUDIO_SINK@ 1". The main benefit of using the CLI is that we can use it programatically. 
 
-
+Skyrim story??
 
 
 Imagine we needed to mute 500 different Windows devices on a given network. If we were to use the GUI we would likely need to walk to each computer and go through the "mute all" process. This would take even a team of people a lot of time. If we were to leverage the programaiblity of the command line, we could solve this with a few lines of code. 
