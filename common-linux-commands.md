@@ -119,3 +119,5 @@ cd new-folder-name
 ## Switching windows
 ## Tiling a window
 ## Congifuring dot (.) files
+
+## Pacman vs Yay
