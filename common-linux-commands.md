@@ -121,3 +121,10 @@ cd new-folder-name
 ## Congifuring dot (.) files
 
 ## Pacman vs Yay
+
+AUR vs Official Repo vs Cachy Repo
+
+## determine if a package is downloaded
+## list all packages
+## upgrading a specific package
+## Upgrading all packagees
