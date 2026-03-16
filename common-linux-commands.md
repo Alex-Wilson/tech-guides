@@ -128,3 +128,5 @@ AUR vs Official Repo vs Cachy Repo
 ## list all packages
 ## upgrading a specific package
 ## Upgrading all packagees
+
+## LOCK IN 
