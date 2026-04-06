@@ -8,7 +8,8 @@ UDP:
 
 # Table
 
-Port Number | Protocol Name | Abrievieation | Purpose |
+| Port Number   | Protocol      |  Purpose
+| ------------- | ------------- | --------- |
 7 | Echo |
 20 | F
 23 | 
