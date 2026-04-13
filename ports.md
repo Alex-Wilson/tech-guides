@@ -10,6 +10,8 @@ UDP:
 
 | Port Number | TCP/UDP | Protocol | Purpose |
 |:-----------:|:-------:|:--------:|:--------|
+| 20 | TCP | FTP | Insecure File Transfer (Data)|
+| 21 | TCP | FTP | Insecure File Transfer (Control) |
 | 80 | TCP | HTTP | Web traffic |
 | 443 | TCP | HTTPS | Secure web traffic |
 | 22 | TCP | SSH | Secure shell access |
