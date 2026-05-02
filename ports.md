@@ -25,3 +25,5 @@ UDP:
 | 27017 | TCP | MongoDB | Database |
 
 # Explanation
+
+**FTP:**
